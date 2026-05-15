@@ -1,39 +1,42 @@
-# README.md — Perfil GitHub `pdrnovaes`
-
-```md
 <h1 align="center">Pedro Novaes</h1>
 
 <p align="center">
-  <strong>AI Product Builder • Gestão de TI • Automações • Produto Operacional</strong>
+  <strong>AI Product Builder • IT Management • Automation • Operational Product Design</strong>
 </p>
 
 <p align="center">
-  Construindo sistemas que reduzem fricção operacional, melhoram processos reais e transformam caos de negócio em produto utilizável.
+  I build practical systems that reduce operational friction, improve business workflows, and turn real-world process chaos into usable software.
+</p>
+
+<p align="center">
+  <a href="https://github.com/pdrnovaes">GitHub</a> •
+  <a href="https://www.linkedin.com/in/pnnovaes">LinkedIn</a> •
+  <a href="https://github.com/pdrnovaes">Portfolio</a>
 </p>
 
 ---
 
-## Sobre mim
+## About me
 
-Sou Pedro Novaes, profissional de tecnologia em transição forte para desenvolvimento com IA, automações e construção de produtos digitais.
+I'm Pedro Novaes, a technology professional moving deeper into AI-assisted development, automation, SaaS products, and operational systems.
 
-Atuo na interseção entre gestão, operação, produto, UX, vendas técnicas e desenvolvimento assistido por IA. Meu foco não é apenas escrever código: é entender o problema real, mapear o fluxo, remover gargalos e entregar sistemas que funcionem no dia a dia da operação.
+My background combines IT management, business operations, technical sales, product thinking, UX, and hands-on development with AI. I do not see software as just code. I see it as a way to remove friction, reduce errors, organize workflows, and make teams operate better.
 
-Tenho trabalhado com projetos envolvendo SaaS, automação de processos internos, dashboards operacionais, funis de ativação, sistemas para licitações, integrações e ferramentas criadas com apoio intensivo de IA.
-
----
-
-## Onde eu gero mais valor
-
-- Transformar processos manuais em sistemas operacionais.
-- Criar dashboards, fluxos internos e automações úteis.
-- Pensar produto com foco em adoção, usabilidade e eficiência.
-- Usar IA para acelerar desenvolvimento, documentação, QA e melhoria contínua.
-- Conectar negócio, tecnologia, operação e experiência do usuário.
+I work especially well at the intersection of business, operations, product, data, automation, and user experience.
 
 ---
 
-## Stack e ferramentas
+## What I focus on
+
+- Turning manual workflows into operational systems.
+- Building dashboards, internal tools, and automation layers.
+- Designing product flows with adoption, usability, and efficiency in mind.
+- Using AI to accelerate development, documentation, QA, and iteration.
+- Connecting business context with technical execution.
+
+---
+
+## Stack and tools
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript" />
@@ -47,81 +50,84 @@ Tenho trabalhado com projetos envolvendo SaaS, automação de processos internos
 
 ---
 
-## Projetos em destaque
+## Featured work
 
 ### Fluvik
-SaaS para profissionais e pequenos negócios que precisam organizar agenda, serviços, clientes e operação comercial com menos atrito.
 
-Principais frentes:
+A SaaS product focused on helping service professionals and small businesses manage scheduling, services, customers, and daily operations with less friction.
 
-- Página pública de agendamento.
-- Dashboard operacional.
-- Fluxos de ativação e onboarding.
-- Eventos de analytics de produto.
-- Funil interno de ativação.
-- Melhorias iterativas guiadas por QA real.
+Key areas:
+
+- Public booking page.
+- Operational dashboard.
+- Onboarding and activation flows.
+- Product analytics events.
+- Internal activation funnel.
+- Iterative product improvements based on real QA.
+
+<p align="center">
+  <img src="https://i.imgur.com/3L9GDEl.png" alt="Fluvik landing page hero section" width="900" />
+</p>
 
 ### Dial Control Gov
-Sistema operacional interno para gestão de licitações, cotações, propostas, participação, resultados e histórico de processos.
 
-Principais frentes:
+An internal operational system for managing public procurement workflows, quotations, proposals, participation, results, appeals, and process history.
 
-- Estruturação de fluxo por processo.
-- Organização de cotações vinculadas.
-- Visão operacional para equipe.
-- Redução de retrabalho e melhoria de rastreabilidade.
-- UX voltada ao uso real da operação.
+Key areas:
 
-### Automações e ferramentas internas
-Experimentos e sistemas menores voltados a produtividade, processos comerciais, análise operacional e apoio a tomada de decisão.
+- Process-centered workflow structure.
+- Linked quotation management.
+- Operational visibility for the team.
+- Better traceability and less rework.
+- UX designed around real internal usage.
+- Internal documentation for maintainability and future development.
 
----
+<p align="center">
+  <img src="https://i.imgur.com/I7tcozy.png" alt="Dial Control Gov internal documentation interface" width="900" />
+</p>
 
-## Minha forma de construir
+### Internal tools and automations
 
-Eu gosto de sair rápido do abstrato e ir para uma versão funcional. Depois disso, valido, testo, documento, corrijo e melhoro.
-
-Meu processo costuma seguir este ciclo:
-
-1. Entender a dor real.
-2. Mapear o fluxo operacional.
-3. Criar uma primeira versão funcional.
-4. Testar com uso real.
-5. Corrigir fricções.
-6. Documentar decisões importantes.
-7. Evoluir o produto com base em evidência.
+Smaller systems and experiments focused on productivity, commercial workflows, operational analysis, and decision support.
 
 ---
 
-## Em evolução agora
+## How I build
 
-- Desenvolvimento full-stack assistido por IA.
-- Arquitetura de produtos SaaS.
-- Automação de processos empresariais.
-- Analytics de produto.
-- UX operacional.
-- Agentes e copilotos internos.
-- Portfólio técnico público no GitHub.
+I prefer to move quickly from abstract discussion to a functional version. Then I test, validate, document, fix friction points, and improve based on actual usage.
 
----
+My typical process:
 
-## Princípio central
-
-> Produto bom não é o que parece bonito no print.  
-> Produto bom é o que reduz erro, reduz trabalho e faz a operação andar melhor.
+1. Understand the real operational pain.
+2. Map the workflow.
+3. Build a functional first version.
+4. Test with real usage.
+5. Fix friction points.
+6. Document important decisions.
+7. Evolve the product based on evidence.
 
 ---
 
-## Contato
+## Currently improving
+
+- AI-assisted full-stack development.
+- SaaS product architecture.
+- Business process automation.
+- Product analytics.
+- Operational UX.
+- Internal copilots and AI agents.
+- Public technical portfolio on GitHub.
+
+---
+
+## Core principle
+
+> A good product is not the one that only looks good in a screenshot.  
+> A good product reduces errors, saves work, and makes operations flow better.
+
+---
+
+## Contact
 
 - GitHub: [@pdrnovaes](https://github.com/pdrnovaes)
-- LinkedIn: adicione seu link aqui
-- Portfólio: adicione seu link aqui
-```
-
-## Ajustes recomendados antes de publicar
-
-1. Trocar `adicione seu link aqui` pelo LinkedIn correto.
-2. Decidir se quer mencionar projetos privados nominalmente ou apenas como “sistemas internos”.
-3. Criar 2 ou 3 repositórios públicos bem documentados para sustentar o posicionamento.
-4. Fixar no perfil apenas projetos que reforcem a narrativa: IA, automação, produto, operação e SaaS.
+- LinkedIn: https://www.linkedin.com/in/pnnovaes/
